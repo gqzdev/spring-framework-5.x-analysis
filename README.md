@@ -1,3 +1,12 @@
+[![ForFuture](https://badgen.net/badge/ForFuture/gqzdev/cyan)](http://ganquanzhong.top)
+[![github](https://badgen.net/badge/github/github?icon)](https://github.com/gqzdev)
+[![csdn](https://badgen.net/badge/blog/ganquanzhong/red)](https://blog.csdn.net/ganquanzhong)
+[![stars](https://badgen.net/github/stars/gqzdev/spring-framework-5.x-analysis)](https://github.com/gqzdev/spring-framework-5.x-analysis)
+[![forks](https://badgen.net/github/forks/gqzdev/spring-framework-5.x-analysis)](https://github.com/gqzdev/spring-framework-5.x-analysis)
+[![last-commit](https://badgen.net/github/last-commit/gqzdev/spring-framework-5.x-analysis)](https://github.com/gqzdev/spring-framework-5.x-analysis)
+[![prs](https://badgen.net/github/prs/gqzdev/spring-framework-5.x-analysis)](https://github.com/gqzdev/spring-framework-5.x-analysis)
+[![gitee](https://badgen.net/badge/gitee/zhong96/orange)](https://gitee.com/zhong96)
+
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
 
 This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects is often referred to simply as "Spring". 
